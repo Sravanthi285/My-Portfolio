@@ -1,0 +1,119 @@
+{
+  "name": "Karnapu Sravanthi",
+  "title": "Full-stack Web Developer & AI Enthusiast",
+  "location": "Greater Noida, Uttar Pradesh",
+  "contact": {
+    "phone": "+91-7013353508",
+    "email": "karnapusravanthi8@gmail.com",
+    "linkedin": "https://in.linkedin.com/in/karnapu-sravanthi-a36865295",
+    "github": "https://github.com/Sravanthi285",
+    "leetcode": "https://leetcode.com/u/9T5DMC9y_KSZmh/"
+  },
+  "summary": "Full-stack web developer with hands-on experience building and deploying scalable applications using Node.js, Express.js, Spring Boot, MySQL, and JavaScript. Strong in backend APIs, database design, and authentication systems. Seeking Web/Backend Internship roles to build production-grade software.",
+  "education": [
+    {
+      "institution": "IILM University, Greater Noida",
+      "degree": "B.Tech in Computer Science & Engineering (AI)",
+      "period": "Aug 2023 - May 2027",
+      "cgpa": "8.64"
+    },
+    {
+      "institution": "Sri Chaitanya Junior College",
+      "degree": "MPC",
+      "period": "Aug 2021 - May 2023",
+      "score": "75%"
+    },
+    {
+      "institution": "SBVEN EM High School",
+      "degree": "Class X",
+      "period": "Aug 2020 - May 2021",
+      "cgpa": "8.5"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Web Development Intern",
+      "company": "EI Systems",
+      "period": "Jan 2025 - Feb 2025",
+      "description": "Built a responsive web interface using HTML, CSS, and JavaScript to present AI project outcomes. Integrated AI-generated outputs into frontend dashboards. Optimized UI components and reduced latency by 15% through performance improvements."
+    }
+  ],
+  "technical_skills": {
+    "languages": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "SQL"
+    ],
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Responsive Design"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Spring Boot",
+      "REST APIs",
+      "Authentication (JWT/Sessions)",
+      "MVC Architecture"
+    ],
+    "databases": [
+      "MySQL",
+      "MongoDB"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Render",
+      "VS Code",
+      "IntelliJ"
+    ],
+    "core_concepts": [
+      "Data Structures & Algorithms",
+      "OOP",
+      "Database Design",
+      "API Development"
+    ]
+  },
+  "projects": [
+    {
+      "name": "AI Chatbot for Academic Assistance",
+      "tech": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Designed and developed a full-stack academic chatbot with secure user authentication. Implemented backend logic using Java and Spring Boot with relational data management in MySQL.",
+      "github": "https://github.com/Sravanthi285"
+    },
+    {
+      "name": "Time Tracker - Attendance & Leave Management System",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "description": "Built a full-stack web application to automate employee attendance and leave approvals. Implemented authentication, role-based access, and secure REST APIs using Express.js. Deployed on Render.",
+      "live": "https://timetrack-zrdo.onrender.com",
+      "github": "https://github.com/Sravanthi285/timetrack"
+    }
+  ],
+  "achievements": [
+    "Actively practicing Data Structures & Algorithms, focusing on arrays, strings, recursion, and basic data structures.",
+    "Participated in Tech-Craft College Tech Fest, showcasing problem-solving and technical skills.",
+    "Represented college in Inter-Collegiate Volleyball Tournaments."
+  ],
+  "certifications": [
+    "Front-End Web Developer - Infosys Springboard (2025)",
+    "Machine Learning - AWS Academy (2025)",
+    "Java Programming: A Comprehensive Bootcamp - Udemy (2024)"
+  ]
+}
